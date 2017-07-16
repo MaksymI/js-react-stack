@@ -28,7 +28,7 @@ const HomePage = ({ classes }: { classes: Object }) =>
   <div>
     <Helmet
       meta={[
-        { name: 'description', content: 'Simple React Hello App' },
+        { name: 'description', content: 'Simple React hello App' },
         { property: 'og:title', content: APP_NAME },
       ]}
     />
